@@ -10,6 +10,20 @@ Appen sparar budgetdata i MariaDB eller MySQL och kräver inloggning. Den
 innehåller inga förinställda användare, ekonomiska uppgifter, API-nycklar,
 databaslösenord eller domännamn.
 
+## Tre anpassade layouter
+
+Appens gränssnitt är responsivt och finns i tre tydliga utföranden:
+
+- **Mobil** – kompakt layout med mobilnavigation och innehåll anpassat för
+  mindre skärmar.
+- **Surfplatta** – rymligare layout med sidomeny och bättre utnyttjande av
+  skärmbredden.
+- **Desktop** – fullständig bred layout med större sidomeny, fler kolumner och
+  en samlad överblick.
+
+Samma funktioner och sparade uppgifter följer med mellan layouterna. Appen
+väljer automatiskt rätt utformning efter skärmens storlek.
+
 **Appen är skapad av: Hans Åberg.**
 
 ## Funktioner
