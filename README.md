@@ -14,6 +14,8 @@ databaslösenord eller domännamn.
 *Budgetöversikten på dator. Alla belopp och poster i bilden är fiktiva
 exempeldata.*
 
+**Appen är skapad av: Hans Åberg.**
+
 ## Funktioner
 
 ### Budget
