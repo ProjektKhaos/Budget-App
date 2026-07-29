@@ -1,4 +1,4 @@
-# Budget App
+# Budget App by Åberg
 
 Budget App är en självhostad webbapp för vardagsbudget, prognoser,
 återkommande poster, sparmål och investeringsöversikt. Den publika
