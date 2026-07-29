@@ -5,14 +5,10 @@ Budget App är en självhostad webbapp för vardagsbudget, prognoser,
 distributionen består av vanlig `index.html`, CSS, JavaScript, bilder och ett
 litet PHP-API. Webbservern behöver inte ha Node.js, Vite eller Next.js.
 
+![Budget App – budgetöversikt med fiktiva exempeldata](assets/budget-app-overview.png)
 Appen sparar budgetdata i MariaDB eller MySQL och kräver inloggning. Den
 innehåller inga förinställda användare, ekonomiska uppgifter, API-nycklar,
 databaslösenord eller domännamn.
-
-![Budget App – budgetöversikt med fiktiva exempeldata](assets/budget-app-overview.png)
-
-*Budgetöversikten på dator. Alla belopp och poster i bilden är fiktiva
-exempeldata.*
 
 **Appen är skapad av: Hans Åberg.**
 
