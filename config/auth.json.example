@@ -1,0 +1,5 @@
+{
+  "username": "owner",
+  "name": "Budgetägare",
+  "password_hash": "ERSÄTT_MED_HASH_FRÅN_TOOLS_CREATE-USER.PHP"
+}

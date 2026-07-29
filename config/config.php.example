@@ -1,0 +1,17 @@
+<?php
+
+declare(strict_types=1);
+
+return [
+    // Måste vara webbplatsens publika adress, utan avslutande snedstreck.
+    'app_origin' => 'https://budget.example.com',
+
+    // MariaDB/MySQL via den lokala Unix-sockeln.
+    'dsn' => 'mysql:host=localhost;dbname=budget_app;charset=utf8mb4',
+    'database_user' => 'budget_app',
+    'database_password' => 'BYT_TILL_ETT_STARKT_DATABASLÖSENORD',
+
+    // Dessa filer ska ligga utanför webbserverns DocumentRoot.
+    'auth_file' => '/etc/budget-app/auth.json',
+    'master_key_file' => '/etc/budget-app/master.key',
+];

@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.sql
+*.sql.gz
+!database/schema.sql
+.env
+.env.*
+config.php
+auth.json
+master.key
