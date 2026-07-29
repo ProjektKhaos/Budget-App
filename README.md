@@ -9,6 +9,11 @@ Appen sparar budgetdata i MariaDB eller MySQL och kräver inloggning. Den
 innehåller inga förinställda användare, ekonomiska uppgifter, API-nycklar,
 databaslösenord eller domännamn.
 
+![Budget App – budgetöversikt med fiktiva exempeldata](assets/budget-app-overview.png)
+
+*Budgetöversikten på dator. Alla belopp och poster i bilden är fiktiva
+exempeldata.*
+
 ## Funktioner
 
 ### Budget

@@ -25676,7 +25676,7 @@ function BudgetApplication({
                 type: "button",
                 onClick: () => setActiveView("profile"),
                 "aria-label": "\xD6ppna profil och inst\xE4llningar",
-                children: "H\xC5"
+                children: "DU"
               }
             )
           ] }),
